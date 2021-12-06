@@ -1,0 +1,125 @@
+{
+  "contractName": "GypsyToken",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.10+commit.fc410830\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/JordanSun/Desktop/Gypsy/src/contracts/gypsytoken.sol\":\"GypsyToken\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/Users/JordanSun/Desktop/Gypsy/src/contracts/gypsytoken.sol\":{\"keccak256\":\"0x87f26d536471b6f222e5db6e08662b3b430c3e0b6d7500acba66e9f9de88ba20\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://2ed65cbb2297712c4320b129a6d3a1a5993657b867af7691e641cb23a6113687\",\"dweb:/ipfs/QmUeWpaRXJE5QyE5hmETvxTyiQMD9L38NyBiNuwDFjry3o\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220aa16f24e0358a469448d872813acb58a16bb72b4e2adcd9aad48944d0d7cfb5464736f6c634300080a0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220aa16f24e0358a469448d872813acb58a16bb72b4e2adcd9aad48944d0d7cfb5464736f6c634300080a0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "65:24:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "65:24:0:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\npragma solidity >=0.7.0 <0.9.0;\n\ncontract GypsyToken {\n\n}",
+  "sourcePath": "/Users/JordanSun/Desktop/Gypsy/src/contracts/gypsytoken.sol",
+  "ast": {
+    "absolutePath": "/Users/JordanSun/Desktop/Gypsy/src/contracts/gypsytoken.sol",
+    "exportedSymbols": {
+      "GypsyToken": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.7",
+          ".0",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:31:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "GypsyToken",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "GypsyToken",
+        "nameLocation": "74:10:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "65:24:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:57:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/Users/JordanSun/Desktop/Gypsy/src/contracts/gypsytoken.sol",
+    "exportedSymbols": {
+      "GypsyToken": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          ">=",
+          "0.7",
+          ".0",
+          "<",
+          "0.9",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "32:31:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "GypsyToken",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "GypsyToken",
+        "nameLocation": "74:10:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "65:24:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "32:57:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.10+commit.fc410830.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.1",
+  "updatedAt": "2021-12-05T20:26:26.722Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
