@@ -13,7 +13,10 @@ To test:
 
 After modifying:
 
+Smart contracts:
  1. truffle compile
  2. truffle migrate --reset
  3. npm run start
 
+Javascript:
+  should reload automatically
